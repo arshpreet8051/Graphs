@@ -10,7 +10,7 @@ using namespace std;
         
         Requirements: 
                         -> Visited array
-                        -> adjacency matrix
+                        -> adjacency list
 */
 class Solution {
   public:

@@ -8,7 +8,7 @@ using namespace std;
  
 // Requirements :
 /*                  
-                    -> Ajdacency matrix
+                    -> Ajdacency list
                     -> Queue
                     -> Visited array
 */

@@ -7,4 +7,5 @@
 5. [Number of Provinces](05_number_of_Province.cpp)
 6. [Number of Islands](06_Number_of_Islands.cpp)
 7. [Flood Fill Algorithm](07_Flood_Fill_Algorithm.cpp)
-7. [Rotten Oranges](08_Rotten_Oranges.cpp)
+8. [Rotten Oranges](08_Rotten_Oranges.cpp)
+9. [Detect Cycle in Graph in BFS](09_Detect_Cycle_in_Graph_BFS.cpp)

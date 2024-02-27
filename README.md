@@ -12,3 +12,4 @@
 10. [Detect Cycle in Graph in DFS](10_Detect_Cycle_in_graph_DFS.cpp)
 11. [Number of Enclaves](11_No_of_Enclaves.cpp)
 12. [Number of Distinct Islands](12_number_of_Distinct_Islands.cpp)
+13. [Bipartite Graph](13_Bipartite_Graph.cpp)

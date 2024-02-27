@@ -10,3 +10,4 @@
 8. [Rotten Oranges](08_Rotten_Oranges.cpp)
 9. [Detect Cycle in Graph in BFS](09_Detect_Cycle_in_Graph_BFS.cpp)
 10. [Detect Cycle in Graph in DFS](10_Detect_Cycle_in_graph_DFS.cpp)
+11. [Number of Enclaves](11_No_of_Enclaves.cpp)

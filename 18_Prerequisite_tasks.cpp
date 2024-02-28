@@ -10,7 +10,8 @@ using namespace std;
 
 /*
 
-    Similar logic to Find Topological Sort using BFS
+    - Use Khan's Algo
+    - Similar logic to Find Topological Sort using BFS
 */
 class Solution {
 public:

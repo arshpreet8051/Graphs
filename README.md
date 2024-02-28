@@ -17,3 +17,4 @@
 15. [Topological Sort - DFS](15_Topological_sort.cpp)
 16. [Khan's Algo - Topological Sort BFS](16_Khans_Algo_Topological_Sort_BFS.cpp)
 17. [Detect Cycle in Directed Graph - BFS - Topological Sort - Khan's Algo](17_Detect_Cylce_Directed_grpah_BFS_Topological_Sort_Khans_algo.cpp)
+18. [Prerequisite Tasks](18_Prerequisite_tasks.cpp)

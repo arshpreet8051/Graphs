@@ -21,3 +21,4 @@
 19. [Alien Dictionary](19_Alien_Dictionary.cpp)
 20. [Shortest path in Directed Acyclic Graph](20_Shortest_path_DAG_TopologicalSort.cpp)
 21. [Shortest path in Undirected graph with unit weights](21_Shortest_path_in_Undirected_Graphs_with_Unit_weights.cpp)
+22. [Word Ladder I](22_Word_Ladder_I.cpp)

@@ -23,4 +23,5 @@
 21. [Shortest path in Undirected graph with unit weights](21_Shortest_path_in_Undirected_Graphs_with_Unit_weights.cpp)
 22. [Word Ladder I](22_Word_Ladder_I.cpp)
 23. [Word Ladder II](23_Word_Ladder_II.cpp)
-23. [Dijkstra Priority Queue](24_Dijkstra_Priority_queue.cpp)
+24. [Dijkstra Priority Queue](24_Dijkstra_Priority_queue.cpp)
+25. [Dijkstra Set](25_Dijkstra_Set.cpp)

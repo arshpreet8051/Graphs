@@ -26,3 +26,4 @@
 24. [Dijkstra Priority Queue](24_Dijkstra_Priority_queue.cpp)
 25. [Dijkstra Set](25_Dijkstra_Set.cpp)
 26. [Print Shortest Path in Weighted Graph](26_Print_Shortest_Path_in_Weighted_Graph_Dijkstra.cpp)
+27. [Shortest Path in Binary maze](27_Shortest_Path_in_Binary_Maze.cpp)

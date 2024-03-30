@@ -3,7 +3,7 @@ int shortestPathBinaryMatrix(vector<vector<int>> &matrix, pair<int, int> src, pa
 {
     // we will follow the BFS approach
     // start from src with length 0
-    // for every neighbour with value zero - push in queue with len + 1
+    // for every neighbour with value one - push in queue with len + 1
     // if neighbour is dest return - len
 
     int n = matrix.size();

@@ -29,4 +29,5 @@
 26. [Print Shortest Path in Weighted Graph](26_Print_Shortest_Path_in_Weighted_Graph_Dijkstra.cpp)
 27. [Shortest Path in Binary maze](27_Shortest_Path_in_Binary_Maze.cpp)
 28. [Min Effort Path](28_Min_Effort_Path.cpp)
-28. [Cheapest Flights Within K Stops](29_Cheapest_Flights_Within_K_Stops.cpp)
+29. [Cheapest Flights Within K Stops](29_Cheapest_Flights_Within_K_Stops.cpp)
+30. [Minimum Multiplications to reach End](30_Minimum_Multiplications_to_reach_End.cpp)

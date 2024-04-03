@@ -31,3 +31,4 @@
 28. [Min Effort Path](28_Min_Effort_Path.cpp)
 29. [Cheapest Flights Within K Stops](29_Cheapest_Flights_Within_K_Stops.cpp)
 30. [Minimum Multiplications to reach End](30_Minimum_Multiplications_to_reach_End.cpp)
+31. [Number of ways to reach destination](31_Number_of_ways_to_reach_destination.cpp)

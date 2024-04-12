@@ -33,4 +33,5 @@
 30. [Minimum Multiplications to reach End](30_Minimum_Multiplications_to_reach_End.cpp)
 31. [Number of ways to reach destination](31_Number_of_ways_to_reach_destination.cpp)
 32. [Floyd Warshall](32_Floyd_Warshall.cpp)
-32. [City with min neighbour](33_City_min_neighbour_Floyd_Warshall.cpp)
+33. [City with min neighbour](33_City_min_neighbour_Floyd_Warshall.cpp)
+34. [Prims Algorithm - MST](34_Prims_algo_MST.cpp)

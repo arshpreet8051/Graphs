@@ -1,5 +1,6 @@
 00_Adjacent_Matrix.exe
 01_Adjacent_List.exe
 35_Disjoint_set_Union_by_Rank.exe
+36_Disjoint_Set_Union_by_Size.exe
 .vscode
 tempCodeRunnerFile.cpp

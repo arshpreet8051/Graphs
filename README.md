@@ -35,3 +35,4 @@
 32. [Floyd Warshall](32_Floyd_Warshall.cpp)
 33. [City with min neighbour](33_City_min_neighbour_Floyd_Warshall.cpp)
 34. [Prims Algorithm - MST](34_Prims_algo_MST.cpp)
+35. [Disjoint Set - Union by Rank](35_Disjoint_set_Union_by_Rank.cpp)

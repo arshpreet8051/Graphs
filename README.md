@@ -39,3 +39,4 @@
 36. [Disjoint Set - Union by Size](36_Disjoint_Set_Union_by_Size.cpp)
 37. [Kruskal algo - Union by size - priority queue](37_Kruskal_algorithm_1.cpp)
 38. [Number of Provinces - Disjoint set](38_Number_of_Provinces_Disjoint_set.cpp)
+39. [Connecting Graphs](39_Connecting_Graphs.cpp)

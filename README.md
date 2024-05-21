@@ -43,3 +43,4 @@
 40. [Accounts Merge](40_Accounts_Merge.cpp)
 41. [Number of Islands II](41_Number_of_Islands_II.cpp)
 42. [Making Large Island](42_Making_Large_Island.cpp)
+43. [Most Removed Stones](43_Most_Removed_Stones.cpp)

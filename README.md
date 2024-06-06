@@ -45,3 +45,4 @@
 42. [Making Large Island](42_Making_Large_Island.cpp)
 43. [Most Removed Stones](43_Most_Removed_Stones.cpp)
 44. [Strongly connected components - Kosaraju algo](44_Kosaraju_algorithm.cpp)
+44. [Bridges in Graph - Tarjan's Algorithm](45_Bridges_in_graph.cpp)

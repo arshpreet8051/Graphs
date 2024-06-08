@@ -36,7 +36,7 @@ void dfs(int node,vector<int>adj[],vector<int>&vis,vector<int>&dis,vector<int>&l
         else{
 
             // for the back edge case - simply update the lowest time of node
-            low[node] = min(low[node],low[neighbour]);
+            low[node] = min(low[node],dis[neighbour]);
 
         }
 

@@ -47,4 +47,8 @@
 44. [Strongly connected components - Kosaraju algo](44_Kosaraju_algorithm.cpp)
 45. [Bridges in Graph - Tarjan's Algorithm](45_Bridges_in_graph.cpp)
 46. [Articulation Point](46_Articulation_Points.cpp)
+
+### BFS with constraints
+
 47. [BFS with constraints](47_BFS_with_constraints.cpp)
+48. [Shortest Pah with alternate colors](48_Shortest_Path_with_Alternate_Colors.cpp)

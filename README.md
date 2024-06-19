@@ -53,5 +53,10 @@
 47. [BFS with constraints](47_BFS_with_constraints.cpp)
 48. [Shortest Pah with alternate colors](48_Shortest_Path_with_Alternate_Colors.cpp)
 
-## Additional problems
+# Additional problems
+
 49. [Clone Graph](49_Clone_Graph.cpp)
+
+## Course Schedule
+50. [Course Schedule - BFS - TopoSort](50_Course_Schedule_1_BFS_TopoSort.cpp)
+50. [Course Schedule - DFS - Cycle Detection](51_Course_Schedule_1_DFS.cpp)

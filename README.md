@@ -57,6 +57,10 @@
 
 49. [Clone Graph](49_Clone_Graph.cpp)
 
-## Course Schedule
+## Course Schedule - 1
 50. [Course Schedule - BFS - TopoSort](50_Course_Schedule_1_BFS_TopoSort.cpp)
-50. [Course Schedule - DFS - Cycle Detection](51_Course_Schedule_1_DFS.cpp)
+51. [Course Schedule - DFS - Cycle Detection](51_Course_Schedule_1_DFS.cpp)
+
+## Multi-Source BFS
+52. [0/1 Matrix](52_0_1_Matrix.cpp)
+52. [Distance to nearest one](53_Distance_to_nearest_one.cpp)
